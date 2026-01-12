@@ -1,4 +1,4 @@
-# Kubernetes Assignment
+# Managing Containers with Kubernetes
 
 This assignment demonstrates container orchestration using Kubernetes.
 
