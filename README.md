@@ -4,17 +4,17 @@ This repository contains three assignments demonstrating different DevOps techno
 
 ## Assignments
 
-### 1. Docker Assignment
+### 1. Implementing Docker for Containerization
 - **Location**: `/Docker/`
 - **Description**: Containerization using Docker
 - **Technologies**: Docker, Python Flask
 
-### 2. Kubernetes Assignment  
+### 2. Managing Containers with Kubernetes
 - **Location**: `/kubernetes/`
 - **Description**: Container orchestration using Kubernetes
 - **Technologies**: Kubernetes, YAML
 
-### 3. Terraform Assignment
+### 3. Automating Infrastructure with Terraform
 - **Location**: `/infra-with-terraform/`
 - **Description**: Infrastructure as Code using Terraform
 - **Technologies**: Terraform, AWS
