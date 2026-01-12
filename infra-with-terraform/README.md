@@ -1,4 +1,4 @@
-# Terraform Infrastructure Assignment
+# Automating Infrastructure with Terraform
 
 This assignment demonstrates Infrastructure as Code using Terraform to provision AWS resources.
 

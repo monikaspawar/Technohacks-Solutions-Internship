@@ -1,4 +1,4 @@
-# Docker Assignment
+# Implementing Docker for Containerization
 
 This assignment demonstrates containerization using Docker.
 
