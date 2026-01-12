@@ -12,6 +12,14 @@ This assignment demonstrates Infrastructure as Code using Terraform to provision
 ## How to Deploy
 ```bash
 terraform init
+c:\Users\Siddharth\OneDrive\Pictures\Screenshots\Task5\Screenshot 2026-01-10 005054.png
 terraform plan
+c:\Users\Siddharth\OneDrive\Pictures\Screenshots\Task5\Screenshot 2026-01-10 005119.png
 terraform apply
+c:\Users\Siddharth\OneDrive\Pictures\Screenshots\Task5\Screenshot 2026-01-10 005303.png
+
+c:\Users\Siddharth\OneDrive\Pictures\Screenshots\Task5\Screenshot 2026-01-10 005347.png
+
+terraform destroy
+c:\Users\Siddharth\OneDrive\Pictures\Screenshots\Task5\Screenshot 2026-01-10 005619.png
 ```
