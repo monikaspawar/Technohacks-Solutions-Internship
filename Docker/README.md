@@ -10,12 +10,14 @@ This assignment demonstrates containerization using Docker.
 ## How to Run
 ```bash
 docker build -t my-app .
-Docker/image/Screenshot 2026-01-10 003744.png
-
-Docker/image/Screenshot 2026-01-10 004007.png
-
-docker run -p 4005:5000 my-app
-Docker/image/Screenshot 2026-01-10 003744.png
-
-Docker/image/Screenshot 2026-01-10 004033.png
+docker run -p 5000:5000 my-app
 ```
+
+## Screenshots
+![Docker Build Process](./image/Screenshot%202026-01-10%20003648.png)
+![Build Complete](./image/Screenshot%202026-01-10%20003703.png)
+![Docker Run](./image/Screenshot%202026-01-10%20003710.png)
+![Container Running](./image/Screenshot%202026-01-10%20003744.png)
+![Application Response](./image/Screenshot%202026-01-10%20004007.png)
+![Port Configuration](./image/Screenshot%202026-01-10%20004018.png)
+![Final Output](./image/Screenshot%202026-01-10%20004033.png)

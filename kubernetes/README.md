@@ -13,9 +13,12 @@ kubectl apply -f service.yml
 ```
 
 ## Screenshots
-![Kubernetes Setup](./image/Screenshot%202026-01-10%20001234.png)
-![Apply Deployment](./image/Screenshot%202026-01-10%20002219.png)
-![Service Configuration](./image/Screenshot%202026-01-10%20002311.png)
+![Kubernetes Setup](./image/Screenshot%202026-01-10%20000959.png)
+![Initial Configuration](./image/Screenshot%202026-01-10%20001144.png)
+![Deployment Start](./image/Screenshot%202026-01-10%20001234.png)
+![Apply Command](./image/Screenshot%202026-01-10%20001315.png)
+![Service Creation](./image/Screenshot%202026-01-10%20002219.png)
+![Pod Configuration](./image/Screenshot%202026-01-10%20002311.png)
 ![Pod Status](./image/Screenshot%202026-01-10%20002406.png)
 ![Running Pods](./image/Screenshot%202026-01-10%20002418.png)
 ![Cluster Info](./image/Screenshot%202026-01-10%20002520.png)
