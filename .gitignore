@@ -27,3 +27,6 @@ __pycache__/
 .Python
 env/
 venv/
+# Image folders
+image/
+*/image/
