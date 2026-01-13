@@ -10,7 +10,7 @@ This assignment demonstrates containerization using Docker.
 ## How to Run
 ```bash
 docker build -t my-app .
-docker run -p 5000:5000 my-app
+docker run -p 4005:5000 my-app
 ```
 
 ## Screenshots
